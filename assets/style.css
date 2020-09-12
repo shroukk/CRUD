@@ -1,0 +1,35 @@
+a , a:hover{
+
+    /* text-decoration-style: none; */
+    color: white !important;
+    text-decoration: none !important;
+
+}
+
+
+a:hover{
+
+    /* text-decoration-style: none; */
+    color: white !important;
+    text-decoration: none !important;
+
+}
+
+
+.btn-style{
+    border: red 2px solid;
+}
+.main{
+    width: 100%;
+    /*text-align: center;*/
+    padding: 70px;
+}
+.form-style{
+    margin: 50px;
+}
+.content{
+    padding: 50px;
+}
+.btn{
+    width: 150px;
+}
